@@ -10,7 +10,7 @@ MRC - LMB Course (ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/EM-course)
 
 <b> Reading material on Integrative Structure Modeling: </b>
 
-1) <a href="http://salilab.org/pdf/Alber_AnnuRevBiochem_2008.pdf"> Integrating Diverse Data for Structure Determination of Macromolecular Assemblies </a>
+1) Integrating Diverse Data for Structure Determination of Macromolecular Assemblies by Andrej Sali
 
 2) Finding the right fit: chiseling structures out of cryo-electron microscopy maps by Elizabeth Villa and Keren Lasker
 
